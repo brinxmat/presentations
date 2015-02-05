@@ -7,15 +7,15 @@ Apache [Jena](https://jena.apache.org/) is an open source Java framework for the
 ..* Creating RDF
 ..* Manipulating data
 * Using the Fuseki triplestore
-..* TDB: the Triple Data Base
-..* Using the Fuseki triplestore
+  * TDB: the Triple Data Base
+  * Using the Fuseki triplestore
 * Querying data with ARQ & SPARQL
-..* Querying in-memory datamodels
-..* Querying local triplestores
-..* Querying remote triplestores
+  * Querying in-memory datamodels
+  * Querying local triplestores
+  * Querying remote triplestores
 * Ontologies and inference
-..* Building ontologies
-..* Inferencing over datasets
+  * Building ontologies
+  * Inferencing over datasets
 
 This is a very hands-on workshop for developers used to Java development, but not RDF technology.
 
