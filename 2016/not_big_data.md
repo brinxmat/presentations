@@ -1,4 +1,4 @@
-#It's not big data, and the semantic web isn't relevant*
+#It's not big data, and the semantic web isn't relevant
 
 For all our best efforts, library technology isn't exiting its MARC-based heritage with the spectacular saltation the majority of library technologists would like to see. Instead, it's slowly evolving into a space located not far from its current point of origin — the 1960s technologically — and the 1890s conceptually. 
 
