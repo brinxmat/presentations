@@ -8,15 +8,24 @@ Feedback on this document has been provided by various members of the library co
 
 ##Caveat emptor
 
-When an RFI like this is announced, I'm always a bit apprehensive; as an engineer, I want specifications to respond to, not requests for information. The reason for this isn't simple laziness, it's that marketing comes into play and marketing isn't fact-driven, it's perception-driven. Having worked on a couple of projects, both on the customer and the vendor side, where the marketing has been stronger than the content, I know that no-one benefits from overselling. This experience makes always makes me temper my response to be far more measured than is typically the case in the domain. At this point, I have nothing to sell, I'm simply presenting my take on what can/ought to be done.
+When an request for information is announced, I'm always a bit apprehensive — as an engineer, I want specifications to respond to, not requests for information. This isn't simple laziness; it's that marketing comes into play and marketing isn't fact-driven, it's perception-driven. 
 
-The response is based on a couple of assumptions:
+Having worked on a couple of projects — both as customer and vendor — where marketing has been stronger than content, I understand that no-one benefits from overselling. This experience makes me temper my response to be far more measured than it might have been. At this point, I have nothing to sell, I'm simply presenting my take on what can/ought to be done.
 
-- I am presenting a situation from the perspective of modern development based on systems that are currently available because I know nothing about what the customer wants other than that they are looking at the benefits of choosing a collaborative library system; I have not been presented with anything other than the [RFI text](https://www.doffin.no/Notice/Details/2016-653999) and a few e-mails where questions from presenters have been answered
-- The customer understands their needs and can provide either a complete [software requirements specification](https://en.wikipedia.org/wiki/Software_requirements_specification) or wishes to use iterative use-case development or some other suitable methodology to develop the functionality they need (this is in very clear divergence from being able to provide "our" solution, which provides our take on what a library needs in terms of functionality and workflows — we can of course provide consultancy to build up use-case/software requirements specifications)
+As such, my response is based on the following:
+
+- I am presenting a situation from the perspective of modern development using modern technologies and methodologies, including, but not limited to
+  - approved development strategies
+  - clear feedback loops for issue tracking
+  - explicit release cycles for their installation
+  - consistent upgrades to ensure patching of security vulnerabilities
+  - appropriate SLA, licensing (open source), etc.
+- I know nothing about what the customer wants other than that they are looking at the benefits of choosing a collaborative library system
+- I have not been presented with anything other than the [RFI text](https://www.doffin.no/Notice/Details/2016-653999) and a few e-mails where questions from presenters have been answered
+- I assume that the customer understands their needs and can provide either a complete [software requirements specification](https://en.wikipedia.org/wiki/Software_requirements_specification) or wishes to use iterative use-case development or some other methodology to develop the functionality they need
+- In the case that the customer has a clear specification, they desire to evaluate offerings based on adaptation of existing systems where possible and are open to development where requirements are not clearly met
 - The customer is not necessarily interested in a single-vendor solution, or indeed a vendor solution at all (opening up for self-hosting, hosting-partnerships and other models)
-- The customer expects modern development techniques with explicit development and release cycles related to their installation; modern interfaces and technologies and constant and consistent management of security vulnerabilities, privacy and general up-to-dateness of the system
-- I am also assuming some knowledge of previously installed collaborative systems, the ADABAS-based BIBSYS 1988 (which I have worked with), Ex Libris portfolio, Koha and so forth
+- I am also assuming some knowledge of previously installed collaborative systems, the ADABAS-based BIBSYS 1988 (which I have worked with), Ex Libris portfolio (which I have worked with), Koha and so forth
 
 ##Introduction
 
