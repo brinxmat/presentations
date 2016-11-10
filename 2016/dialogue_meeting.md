@@ -1,6 +1,22 @@
-#About
+#RFI Sølvberget
 
 I'm presenting a short response on behalf of my employer, Computas, at an RFI-type dialogue meeting here in Norway.
+
+##Caveat emptor
+
+When an RFI like this is announced, I'm always a bit apprehensive; as an engineer, I want specifications to respond to, not requests for information. The reason for this isn't simple laziness, it's that marketing comes into play and marketing isn't fact-driven, it's perception-driven. Having worked on a couple of projects, both on the customer and the vendor side, where the marketing has been stronger than the content, I know that no-one benefits from overselling. This experience makes always makes me temper my response to be far more measured than is typically the case in the domain. At this point, I have nothing to sell, I'm simply presenting my take on what can/ought to be done.
+
+The response is based on a couple of assumptions:
+
+- I am presenting a situation from the perspective of modern development based on systems that are currently available because I know nothing about what the customer wants other than that they are looking at the benefits of choosing a collaborative library system; I have not been presented with anything other than the [RFI text](https://www.doffin.no/Notice/Details/2016-653999) and a few e-mails where questions from presenters have been answered
+- The customer understands their needs and can provide either a complete [software requirements specification](https://en.wikipedia.org/wiki/Software_requirements_specification) or wishes to use iterative use-case development or some other suitable methodology to develop the functionality they need (this is in very clear divergence from being able to provide "our" solution, which provides our take on what a library needs in terms of functionality and workflows — we can of course provide consultancy to build up use-case/software requirements specifications)
+- The customer is not necessarily interested in a single-vendor solution, or indeed a vendor solution at all (opening up for self-hosting, hosting-partnerships and other models)
+- The customer expects modern development techniques with explicit development and release cycles related to their installation; modern interfaces and technologies and constant and consistent management of security vulnerabilities, privacy and general up-to-dateness of the system
+- I am also assuming some knowledge of previously installed collaborative systems, the ADABAS-based BIBSYS 1988 (which I have worked with), Ex Libris portfolio, Koha and so forth
+
+Feedback on this document has been gleaned from various members of the open-source community, I'd like to thank Lukas Koster, Andrew Preater, @priv_lib, Clare Playforth, Kasper Bøgh and Knut Hegna for valuable feedback. Any errors remain my own.
+
+##Introduction
 
 Three questions have been posed three questions:
 
