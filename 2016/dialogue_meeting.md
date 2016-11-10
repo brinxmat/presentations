@@ -2,6 +2,10 @@
 
 I'm presenting a short response on behalf of my employer, Computas, at an RFI-type dialogue meeting here in Norway.
 
+##Acknowledgements
+
+Feedback on this document has been provided by various members of the library community, I'd particularly like to thank Lukas Koster, Andrew Preater, @priv_lib, Clare Playforth, Kasper Bøgh and Knut Hegna for valuable feedback. Any errors remain my own.
+
 ##Caveat emptor
 
 When an RFI like this is announced, I'm always a bit apprehensive; as an engineer, I want specifications to respond to, not requests for information. The reason for this isn't simple laziness, it's that marketing comes into play and marketing isn't fact-driven, it's perception-driven. Having worked on a couple of projects, both on the customer and the vendor side, where the marketing has been stronger than the content, I know that no-one benefits from overselling. This experience makes always makes me temper my response to be far more measured than is typically the case in the domain. At this point, I have nothing to sell, I'm simply presenting my take on what can/ought to be done.
@@ -13,8 +17,6 @@ The response is based on a couple of assumptions:
 - The customer is not necessarily interested in a single-vendor solution, or indeed a vendor solution at all (opening up for self-hosting, hosting-partnerships and other models)
 - The customer expects modern development techniques with explicit development and release cycles related to their installation; modern interfaces and technologies and constant and consistent management of security vulnerabilities, privacy and general up-to-dateness of the system
 - I am also assuming some knowledge of previously installed collaborative systems, the ADABAS-based BIBSYS 1988 (which I have worked with), Ex Libris portfolio, Koha and so forth
-
-Feedback on this document has been gleaned from various members of the open-source community, I'd like to thank Lukas Koster, Andrew Preater, @priv_lib, Clare Playforth, Kasper Bøgh and Knut Hegna for valuable feedback. Any errors remain my own.
 
 ##Introduction
 
