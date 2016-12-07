@@ -47,7 +47,7 @@ Iterative, feature-driven development. Lots of tests, lots of modular, microserv
 
 ###System architecture
 
-[insert image]
+![image](Architecture_ls_ext_overview.png "Architecture overview LS.ext")
 
 The general architecture is microservice-oriented and container-based. We containerize our services with Docker and use Docker-compose for orchestration.
 
