@@ -181,7 +181,7 @@ In order for linked data to perform well, a number of things have to be taken in
 - provide what is needed
 - caching
 
-Saying something glib like "don't ask stupid questions" will put a lot of people off, but I suspect that most people would agree that query processing times in excess of a second really aren't acceptable in web applications.
+Saying something glib like "don't ask stupid questions" will put a lot of people off, but it is probably true that most people would agree that query processing times in excess of a second really aren't acceptable in web applications.
 
 A lot of the queries that take a long time do so simply because the question being asked is one which will invariably take a long time. Typical culprits all feature multiple-solutions be they from optional clauses or fuzzy matching in strings.
 
