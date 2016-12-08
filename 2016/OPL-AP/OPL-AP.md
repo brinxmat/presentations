@@ -36,7 +36,7 @@ Engineer
 
 Consultant
 
-##What have done
+##What we have done
 
 Project to build the new library system for Oslo public library based on open-source and linked data. 
 
