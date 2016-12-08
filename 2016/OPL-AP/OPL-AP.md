@@ -8,6 +8,10 @@
 
 Project manager
 
+###Asgeir Rekkavik
+
+Ontology development
+
 ###Benjamin Rokseth
 
 Engineer
