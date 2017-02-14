@@ -1,5 +1,7 @@
 #BIBRFAME and linked data in bibliographic description 
 
+von Hakendorf-Grüneheide, Rurich
+
 #The aims of Bibframe
 >- "…provides a foundation for the future of bibliographic description…"
 >- "…a replacement for MARC…"
@@ -12,7 +14,7 @@ Bibframe is ambitious in its aims; it aims to provide *a foundation for the futu
 
 On face value, to create a MARC replacement, we need something that encodes data so that it can be exchanged between systems. This sounds simple enough. Reality is different.
 
-MARC, [ISO 2709](###Link), allows bibliographic data to be represented as strings in various fields/indicators, using special characters in special positions. To understand MARC, you need to understand MARC. This isn't hard, MARC is actually technically easy and relatively smart. You can do a lot with MARC, even if very few actually do [reference]().
+MARC, [ISO 2709](http://www.iso.org/iso/catalogue_detail.htm?csnumber=41319), allows bibliographic data to be represented as strings in various fields/indicators, using special characters in special positions. To understand MARC, you need to understand MARC. This isn't hard, MARC is actually technically easy and relatively smart. You can do a lot with MARC, even if very few actually [do](http://www.oclc.org/content/dam/research/publications/library/2010/2010-06.pdf).
 
 The question we need to ask is "Do we need a replacement for MARC?" & the answer should be "No". A MARC-replacement is unnecessary because MARC is absolutely fit for purpose — if the purpose is what MARC is designed to do, exchange data between systems that understand MARC. Whether the system is something that prints catalogue cards or a library management system should be irrelevant.
 
