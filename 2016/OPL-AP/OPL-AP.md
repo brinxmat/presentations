@@ -63,6 +63,8 @@ We have something resembling an enterprise service bus, a but this is not quite 
 
 The service layer is a Java 8 web application run in Jetty; interaction with the service layer is via REST and it is this layer that dictates what our linked data is. We use Jersey as our REST API and Apache Jena as our RDF API; the platform also understands MARC in various ways, being able to parse MARC to an RDF format that is used by the Catalinker module and produces the MARC21 that is used by the Koha module.
 
+The service layer mediates between various data sources and facilitates master data/slave data relationships. As such the service layer also controls indexing and interaction with Koha (at time of writing, we are moving all interaction with Koha to the service layer).
+
 ####Koha
 
 Koha is master for holdings, patrons and circulation. 
