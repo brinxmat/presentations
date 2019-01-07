@@ -1,4 +1,4 @@
-**Title:** FaaS or farce: avoiding potential pitfalls in public cloud FaaS / managed services
+**Title:** FaaS not farce: deploying services with public cloud Functions-as-a-Service / managed services
 
 **Presenters:** Orestis Gorgas, Eirik Nilsen, Arnot Triesler
 
