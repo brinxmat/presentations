@@ -21,11 +21,19 @@ Viktige stikkord i denne sammenhengen er "skyen" og "plattformen til DLR og BIRD
 
 I denne sammenhengen brukes det AWS-stacken fullt ut, vi baserer oss på managed services og teknologier som muliggjør kjapp utvikling og kontinuerlig urulling. Viktige lærdommer og erfaringer med teknologier fra tidligere AWS prosjekter taes med og vi har sikt på å få etablert en plattform som er tett knyttet til AWS da dette har vist seg å være den mest fruktbar vei frem gitt forutsetningene vi har i Unit.
 
+Den eksisterende plattformen er mikrotjenestebasert; flere deler av denne bearbeides slik at arkitekturen passer bedre i AWS. Arbeidet pågår allerede med å få realisert denne arkitekturen.
+
+Ny frontend utvikles (i React) som dekker funksjonaliteten til NVA, DLR og BIRD tjenestene.
+
+Gitt at vi tar sikte på kontinuerlig utrulling, ser vi selvfølgelig mye på testing og erfaring fra tidligere prosjekter viser at metodikken vi bruker fungerer godt, og at det er behov for videreutvikling av metodologien på alle plan.
+
 ## Hvem jobber med dette?
 
 Dette er et Unitprosjekt da det er folk fra flere avdelinger involvert.
 
 Utviklingsteamet er for tida hovedsakelig basert i Trondheim, men vi er lovet utviklere fra Oslo, men det har vist seg å være vanskelig å fristille folk fra arbeid med eksisterende oppgaver.
+
+Det er hentet inn kompetanse både fra Oslo og innleide for å sikre at arbeidet med blant annet frontend pågår på en god måte.
 
 Kompetansefolk med erfaring fra Cristin-miljøet er svært viktig i arbeidet og vi ser frem til samarbeidet.
 
