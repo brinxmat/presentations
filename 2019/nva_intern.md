@@ -31,7 +31,7 @@ Gitt at vi tar sikte på kontinuerlig utrulling, ser vi selvfølgelig mye på te
 
 Dette er et Unitprosjekt og folk fra flere avdelinger er involvert.
 
-Utviklingsteamet er for tida hovedsakelig basert i Trondheim, men vi er får utviklere fra utviklere fra Oslo-kontoret.
+Utviklingsteamet er for tida hovedsakelig basert i Trondheim, men vi er får utviklere fra Oslo-kontoret inn fortløpende.
 
 Det er hentet inn kompetanse både fra Oslo og ved innleie for å sikre at arbeidet med blant annet frontend pågår på en god måte.
 
