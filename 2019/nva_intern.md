@@ -27,6 +27,6 @@ Dette er et Unitprosjekt da det er folk fra flere avdelinger involvert.
 
 Utviklingsteamet er for tida hovedsakelig basert i Trondheim, men vi er lovet utviklere fra Oslo, men det har vist seg å være vanskelig å fristille folk til arbeidet.
 
-Kompetansefolk fra Cristin-miljøet er veldi viktig i arbeidet og vi ser frem til samarbeidet.
+Kompetansefolk med erfaring fra Cristin-miljøet er svært viktig i arbeidet og vi ser frem til samarbeidet.
 
 [1] Unit. 2019.  Rapport fra utredning av nasjonalt vitenarkiv er ferdigstilt. https://www.unit.no/aktuelt/rapport-fra-utredning-av-nasjonalt-vitenarkiv-er-ferdigstilt
