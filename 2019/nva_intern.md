@@ -5,7 +5,10 @@
 
 *Hovedmål fra rapporten er:*
 
-  - Sørg for å øke gjenbruk av metadata fra arbeidsflyt som allerede eksisterer
+  - Forskning i bred forstand, ikke bare hos institusjoner i UH-sektor
+  - Det er snakk om et arkiv der forskere publiserer det de kan/skal arkivere
+  - Arkiv her dekker også læringsressurs, data, og annet
+  - Sørg for å øke gjenbruk av metadata fra arbeidsflyt som allerede eksisterer (fortrinnsvis hos institusjonen, videre nasjonalt)
   - Sørg for forenklende arbeidsflyt baserer seg i den grad mulig på automatisering
   - Forbedre nasjonal infrastruktur for oppgaver knyttet til arkivering av vitenskapelig arbeid
   
